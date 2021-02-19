@@ -14,7 +14,7 @@ for tc in range(1, T+1):
     # 가로 회문 판단
     for y in range(N) :
         for x in range(N) :
-            for end in range(N, x+result, -1) :
+            for end in range(N, x+result, -1) : # 뒤에서 부터 확인(있다면 그 이하 길이는 판단안해도됨, 그리고 result보다 작은길이도 판단할필요없음)
                 for d in range( (end-x) //2 ) :
                     if inp_arr[y][x+d] != inp_arr[y][end-1-d] :
                         break
