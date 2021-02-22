@@ -1,0 +1,20 @@
+1. 셀렉션 정렬
+def selection_sort(N, arr) : # 최대값을 하나씩 맨 뒤로 보내면서 정렬
+
+    for i in range(N) :
+        tmp_max = arr[0]
+        tmp_idx = 0
+        for j in range(N-i) : # 최대값을 찾기( 이전 최대값 직전위치까지)
+            if tmp_max < arr[j] :
+                tmp_max = arr[j]
+                tmp_idx = j
+        else : # 최대값을 이전 최대값 앞으로 위치 변경
+            arr[N-1-i], arr[tmp_idx] = arr[tmp_idx], arr[N-1-i]
+
+2. 선택정렬 요소 교환 - 작은거부터
+
+[1, 2, 6, 5, 9, 3, 7, 8, 4] # 시작
+[1, 2, 3, 5, 9, 6, 7, 8, 4] # 6과 3 위치변경
+[1, 2, 3, 4, 9, 6, 7, 8, 5] # 4와 5 위치변경
+[1, 2, 3, 4, 5, 6, 7, 8, 9] # 9와 5 위치변경
+교환 횟수 : 3번
