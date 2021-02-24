@@ -17,8 +17,8 @@ for tc in range(1, T+1):
 
     for i in range(2, N) : # 피보나치 처럼 생각
         result_arr[i] = 2* (result_arr[i-2]) + result_arr[i-1]
-        # 아이디어 앞에 1 하나를 두고 하는 경우의 수 = result_arr[i-2]
-        # 아이디어 앞에 2 하나를 두고 하는 경우의 수 = (2를 만드는 방법 =2개 (3개에서 11 하나 제외) ) * result_arr[i-1]
+        # 아이디어 앞에 1 하나를 두고 하는 경우의 수 = result_arr[i-1]
+        # 아이디어 앞에 2 하나를 두고 하는 경우의 수 = (2를 만드는 방법 =2개 (3개에서 11 하나 제외) ) * result_arr[i-2]
 
     print("#{} {}".format(tc, result_arr[N-1]))
 

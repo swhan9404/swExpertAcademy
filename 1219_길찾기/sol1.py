@@ -23,6 +23,7 @@ for tc in range(1, T+1):
         if now == end : # 99 에 도착하면 반복종료
             result =1
             break
+
         visited[now] = 1 # 방문처리
         # 방문 안한 인접 정점이 있는지 확인
         for i in range(100) :
