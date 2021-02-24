@@ -31,5 +31,5 @@ for tc in range(1, T+1):
     else :
         result = "Corrupt"
 
-    print("#{} {}".format(tc, result))
+    print(result)
 
