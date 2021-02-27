@@ -45,8 +45,8 @@ for tc in range(1, T+1):
 
         return back_cal
 
-    def func2(inp) :
-        stack = []
+    def func2(inp) : # 후위 연산자 계산
+        stack = [] # 스택 초기화
         for tmp in inp :
             if tmp in dic.keys() : # 연산자이면
                 two = stack.pop()
@@ -59,11 +59,10 @@ for tc in range(1, T+1):
                     result = one/two
                 elif tmp == "-" :
                     result = one-two
-                print(result)
-                stack.append(result)
+                stack.append(result) # 계산후 다시 스택에 넣어주기
             else: #숫자면
                 stack.append(tmp)
-        return stack.pop()
+        return sum(stack) #스택 남은것들 총합
 
     back_cal= func(inp)
     result = func2(back_cal)
