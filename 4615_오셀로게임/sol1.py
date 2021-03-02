@@ -7,7 +7,9 @@ move_x = [1, -1, 0, 0, 1, 1, -1, -1]  # 오른쪽, 왼쪽, 위, 아래, 대각�
 move_y = [0, 0, -1, 1, -1, 1, 1, -1]
 
 def check(color, x, y) : # 색깔 놓고 뒤집기
-    pan[y][x]=color
+
+    pan[y][x]=color # 현재 위치 자기색으로 바꾸기
+
     for i in range(8) : # 방향 인덱스
         k = 0 # while문 반복횟수
         while True :
@@ -19,7 +21,7 @@ def check(color, x, y) : # 색깔 놓고 뒤집기
                 break
             k+=1
 
-        if k>= 1 :
+        if k>= 1 : # 다른색이 한칸 이상 연속되어있을경우
             dx = x+move_x[i] * (k+1)
             dy = y+move_y[i] * (k+1)
             if not(0<=dx<N) or not(0<=dy<N) :
@@ -29,8 +31,6 @@ def check(color, x, y) : # 색깔 놓고 뒤집기
                     dx2 = x + move_x[i] * j
                     dy2 = y + move_y[i] * j
                     pan[dy2][dx2] = color
-
-
 
 
 for tc in range(1, T+1):
@@ -52,11 +52,13 @@ for tc in range(1, T+1):
         else : # 백돌차례
             check("W", dol_x-1, dol_y-1)
 
+    # 검은돌 세기
     black_cnt =0
     for y in range(N) :
         for x in range(N) :
             if pan[y][x] == "B" :
                 black_cnt +=1
+    # 흰돌 세기
     white_cnt = 0
     for y in range(N) :
         for x in range(N) :

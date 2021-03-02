@@ -28,7 +28,7 @@ for tc in range(1, T+1):
         for j in range(start, end+1) :
             dup_visit[j] +=1
 
-    # 가장 많이 반복된 구간의 반복회수 구하기
+    # 가장 많이 반복된 구간의 반복횟수 구하기
     max_dup = 0
     for i in range(len(dup_visit)) :
         if dup_visit[i] > max_dup :
