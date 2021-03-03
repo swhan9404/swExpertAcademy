@@ -18,7 +18,7 @@ for tc in range(1, T+1):
                 if miro[y][x] == "2" :
                     return x,y
 
-    def move(x,y) :
+    def move(x,y) : # 점을 움직이면서 방문처리 하기
         global result
         if not(0<=x<N) or not(0<=y<N) or miro[y][x] == "1" or visited[y][x]==1:
             return

@@ -11,7 +11,7 @@ for tc in range(1, T+1):
     for tmp in inp_arr :
         if tmp.isdigit() : # 숫자라면
             stack.append(int(tmp))
-        elif tmp =="." :
+        elif tmp =="." : # . 일경우 계산 결과 출력
             if len(stack) == 1 :
                 result = stack.pop()
             else :
