@@ -3,7 +3,7 @@ sys.stdin = open("input.txt")
 
 T = int(input())
 
-# BFS 풀이
+# DFS, BFS 풀이 x / 모든 경로 찾기
 for tc in range(1, T+1):
     V, E = map(int, input().split())
     gansun_arr = [[0]* (V+1) for _ in range(V+1)] # 행 : 출발 / 열 : 도착
