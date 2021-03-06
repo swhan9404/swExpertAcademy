@@ -38,13 +38,13 @@ for tc in range(1, T+1):
     result = []# 부분행렬의 (행과열) 크기 리스트
 
     while find() :
-        start_x, start_y = find()
-        end_x, end_y = find_area(start_x, start_y)
+        start_x, start_y = find() # 안칠한 부분의 시작점 (맨왼쪽 위에 점 찾기)
+        end_x, end_y = find_area(start_x, start_y)  # 안칠한 부분 맨 아래점 ( 맨 오른쪽, 맨 아래쪽 점 찾기)
 
         length_x = end_x - start_x
         length_y = end_y - start_y
-        result.append( (length_y, length_x) )
-        visited(start_x, start_y, end_x, end_y)
+        result.append( (length_y, length_x) ) # result 에 행길이, 열길이 튜플로 넣기
+        visited(start_x, start_y, end_x, end_y) # 지금 체크한 영역 초기화
 
     result = sorted(result, key = lambda rectangle : (rectangle[0]*rectangle[1],rectangle[0])) # 넓이 정렬
 

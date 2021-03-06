@@ -55,6 +55,5 @@ for tc in range(1, T+1):
 
     result = func()
 
-
     print("#{} {}".format(tc, result))
 
