@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eabc32b6-6c6a-496f-b935-b6a7db405d80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준특강대비/7557 동물원(1시간걸림)/beakjun2.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준특강대비/7557 동물원(1시간걸림)/beakjun2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,45 +16,143 @@
     <session id="1269547921">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="18" />
-          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.5" value="12" />
           <entry key="project.open.time.6" value="6" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="203" />
+          <entry key="py" value="223" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="203" />
+          <entry key="Python" value="223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="67560" />
+          <entry key="py" value="71472" />
           <entry key="txt" value="232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="232" />
-          <entry key="Python" value="67560" />
+          <entry key="Python" value="71472" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7461 조세퍼스문제3/beakjun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0405order/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1617595934454" expanded="true" signature="35:40" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0405order/teacher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0405문제/중위순회/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <marker date="1617609288118" expanded="true" signature="84:314" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0405문제/공통조상/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="29" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준특강대비/7553 제곱근/beakjun2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,22 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4869_종이붙이기/sol1.py" />
-        <option value="$PROJECT_DIR$/1222_계산기/sol1.py" />
-        <option value="$PROJECT_DIR$/정올/1037 오류교정/sol1.py" />
-        <option value="$PROJECT_DIR$/정올/1205 조커/sol1.py" />
-        <option value="$PROJECT_DIR$/1219_길찾기/sol1.py" />
-        <option value="$PROJECT_DIR$/1223_계산기2/sol1.py" />
-        <option value="$PROJECT_DIR$/2805_농작물수확하기/sol1.py" />
-        <option value="$PROJECT_DIR$/1860_진기의최고급붕어빵/sol1.py" />
-        <option value="$PROJECT_DIR$/1859_백만장자프로젝트/sol1.py" />
-        <option value="$PROJECT_DIR$/4408_자기방으로돌아가기/sol1.py" />
-        <option value="$PROJECT_DIR$/4615_오셀로게임/sol1.py" />
-        <option value="$PROJECT_DIR$/6019기차사이의파리/sol1.py" />
-        <option value="$PROJECT_DIR$/4881_배열최소합/sol1.py" />
-        <option value="$PROJECT_DIR$/4881_배열최소합/sol2.py" />
-        <option value="$PROJECT_DIR$/1224_계산기3/sol1.py" />
-        <option value="$PROJECT_DIR$/1224_계산기3/sol2.py" />
         <option value="$PROJECT_DIR$/4880_토너먼트 카드게임/sol1.py" />
         <option value="$PROJECT_DIR$/4880_토너먼트 카드게임/input.txt" />
         <option value="$PROJECT_DIR$/4880_토너먼트 카드게임/sol3.py" />
@@ -124,12 +208,28 @@
         <option value="$PROJECT_DIR$/백준특강대비/7559 A to B/beakjun.py" />
         <option value="$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun.py" />
         <option value="$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7553 제곱근/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7553 제곱근/beakjun.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7555 무한문자열/beakjun.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7551 pqr/beakjun.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7557 동물원(1시간걸림)/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7546 A와B/beakjun.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun3.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7546 A와B/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun2.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py" />
+        <option value="$PROJECT_DIR$/백준특강대비/7461 조세퍼스문제3/beakjun.py" />
+        <option value="$PROJECT_DIR$/0405order/sol1.py" />
+        <option value="$PROJECT_DIR$/0405order/teacher.py" />
+        <option value="$PROJECT_DIR$/0405문제/중위순회/sol1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="445" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="30" />
+    <option name="y" value="51" />
     <option name="width" value="1435" />
     <option name="height" value="880" />
   </component>
@@ -139,13 +239,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="0405문제" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="0405문제" type="462c0819:PsiDirectoryNode" />
+              <item name="공통조상" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="0405문제" type="462c0819:PsiDirectoryNode" />
+              <item name="중위순회" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -197,10 +313,35 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="백준특강대비" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="백준특강대비" type="462c0819:PsiDirectoryNode" />
+              <item name="7463 소풍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="백준특강대비" type="462c0819:PsiDirectoryNode" />
+              <item name="7546 A와B" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="백준특강대비" type="462c0819:PsiDirectoryNode" />
+              <item name="7551 pqr(못품)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="백준특강대비" type="462c0819:PsiDirectoryNode" />
+              <item name="7557 동물원(1시간걸림)" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,8 +365,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.beakjun2">
-    <configuration name="beakjun (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sol1">
+    <configuration name="beakjun (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +374,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7557 동물원" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7463 소풍" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +387,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="beakjun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="beakjun2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +395,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7559 A to B" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7546 A와B" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7559 A to B/beakjun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7546 A와B/beakjun2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +408,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="beakjun2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="beakjun3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +416,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7557 동물원" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7463 소풍" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sol1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +437,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1952_수영장" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0405문제/중위순회" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1952_수영장/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0405문제/중위순회/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +450,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teacher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +458,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준특강대비/7560 ATM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0405order" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준특강대비/7560 ATM/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0405order/teacher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +472,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sol1 (3)" />
-      <item itemvalue="Python.sol1 (4)" />
-      <item itemvalue="Python.beakjun" />
-      <item itemvalue="Python.beakjun (1)" />
-      <item itemvalue="Python.beakjun2" />
+      <item itemvalue="Python.beakjun2 (2)" />
+      <item itemvalue="Python.beakjun (2)" />
+      <item itemvalue="Python.beakjun3" />
+      <item itemvalue="Python.teacher" />
+      <item itemvalue="Python.sol1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.beakjun2" />
-        <item itemvalue="Python.beakjun (1)" />
-        <item itemvalue="Python.beakjun" />
-        <item itemvalue="Python.sol1 (4)" />
-        <item itemvalue="Python.sol1 (3)" />
+        <item itemvalue="Python.sol1" />
+        <item itemvalue="Python.teacher" />
+        <item itemvalue="Python.beakjun3" />
+        <item itemvalue="Python.beakjun (2)" />
+        <item itemvalue="Python.beakjun2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -370,14 +511,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="24" y="41" width="1148" height="704" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14011897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19081908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3252841" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32456142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46448863" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -541,6 +683,26 @@
           <line>11</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/백준특강대비/7555 무한문자열/beakjun.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0405문제/중위순회/sol1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -569,138 +731,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/백준문제/2477_참외밭.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="28" column="7" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1859_백만장자프로젝트/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4831_전기버스/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1860_진기의최고급붕어빵/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4408_자기방으로돌아가기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4615_오셀로게임/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="51" column="21" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6019기차사이의파리/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4880_토너먼트 카드게임/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1223_계산기2/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="322" selection-start-line="322" selection-end-line="322" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6019기차사이의파리/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4880_토너먼트 카드게임/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <marker date="1614666237347" expanded="true" signature="201:1001" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4880_토너먼트 카드게임/sol3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1224_계산기3/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4874_Forth/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4875_미로/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4880_토너먼트 카드게임/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="21" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1225_암호생성기/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="23" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1225_암호생성기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4881_배열최소합/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -879,10 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-          <folding>
-            <marker date="1615476996015" expanded="true" signature="554:605" ph="..." />
-            <marker date="1615476996015" expanded="true" signature="554:1351" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,31 +944,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <marker date="1617019396407" expanded="true" signature="151:156" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun.py">
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun.py" />
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun2.py" />
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원(1시간걸림)/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원(1시간걸림)/beakjun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr/beakjun.py" />
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7553 제곱근/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7555 무한문자열/beakjun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7546 A와B/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <marker date="1617021996132" expanded="true" signature="147:152" ph="..." />
-            <marker date="1617021996132" expanded="true" signature="705:787" ph="..." />
+            <marker date="1617030526969" expanded="true" signature="178:183" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준특강대비/7557 동물원/beakjun2.py">
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7546 A와B/beakjun2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="22" selection-start-line="2" selection-end-line="19" selection-end-column="22" />
           <folding>
-            <marker date="1617024100472" expanded="true" signature="80:104" ph="..." />
-            <marker date="1617024100472" expanded="true" signature="257:262" ph="..." />
+            <marker date="1617118241485" expanded="true" signature="177:182" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7463 소풍/beakjun3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7551 pqr(못품)/beakjun3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7553 제곱근/beakjun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준특강대비/7461 조세퍼스문제3/beakjun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0405order/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1617595934454" expanded="true" signature="35:40" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0405order/teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0405문제/중위순회/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1617609288118" expanded="true" signature="84:314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0405문제/공통조상/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
