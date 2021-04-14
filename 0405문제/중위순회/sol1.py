@@ -24,8 +24,7 @@ for tc in range(1, T+1):
     inp_arr =[0]* (N+1)
     for _ in range(N) :
         tmp_arr = input().split()
-        inp_arr[int(tmp_arr[0])] = tmp_arr
-
+        inp_arr[int(tmp_arr[0])] = tmp_arr # 몇 번 점인지 받고 저장
 
 
     print("#{} ".format(tc, ))
