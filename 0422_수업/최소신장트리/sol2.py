@@ -21,8 +21,8 @@ def find(x,y) :
 
 def kruskal() :
     global result
-    while inp_arr :
-        start, end, val = inp_arr.pop()
+    for tmp in inp_arr :
+        start, end, val = tmp
         if not find(start, end) :
             union_parent(start, end)
             result += val
@@ -30,8 +30,7 @@ def kruskal() :
 for tc in range(1, T+1):
     V, E = map(int, input().split())
     inp_arr = [list(map(int, input().split())) for _ in range(E)]
-    inp_arr.sort(key=lambda x : -x[2])
-
+    inp_arr.sort(key=lambda x : x[2])
     parent = [i for i in range(V+1)]
     result =0
     kruskal()
